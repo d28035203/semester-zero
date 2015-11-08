@@ -1,9 +1,8 @@
 # Semester Zero
 
-First-year Computer Engineering survival kit.
+First-year **Computer Engineering** lab dump from **early coursework practice** under **university syllabus-style**.
 
-Tiny C programs from the 2015–16 lab cycle — patterns, grade calculator,
-and Fibonacci — written when `printf` still felt like magic.
+Tiny C programs from the 2015–16 cycle — patterns, grade calculator, and Fibonacci — written when `printf` still felt like magic.
 
 ```bash
 gcc patterns.c -o patterns && ./patterns
