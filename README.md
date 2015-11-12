@@ -1,8 +1,8 @@
-# Semester Zero
+# C Lab Survival
 
-First-year Computer Engineering style lab dump.
+**Subject vibe:** Computer Programming (C) — early engineering semesters.
 
-Tiny C programs — patterns, grade calculator, and Fibonacci — from early programming practice.
+Classic lab programs: star patterns, grade calculator, iterative Fibonacci.
 
 ```bash
 gcc patterns.c -o patterns && ./patterns
@@ -10,6 +10,4 @@ gcc grades.c -o grades && ./grades
 gcc fibonacci.c -o fib && ./fib
 ```
 
-Not production. Barely compiles on a good day. Still fun.
-
-MIT · 2015
+MIT · practice project
