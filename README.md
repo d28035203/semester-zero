@@ -1,6 +1,6 @@
-# C Lab Survival
+# Curly Brace Bootcamp
 
-**Subject vibe:** Computer Programming (C) — early engineering semesters.
+**** Computer Programming (C) — early engineering semesters.
 
 Classic lab programs: star patterns, grade calculator, iterative Fibonacci.
 
