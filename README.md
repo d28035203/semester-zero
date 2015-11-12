@@ -1,13 +1,16 @@
 # Curly Brace Bootcamp
 
-**** Computer Programming (C) — early engineering semesters.
+Intro C programs: star patterns, grade calculator, iterative Fibonacci.
 
-Classic lab programs: star patterns, grade calculator, iterative Fibonacci.
+## Build
 
 ```bash
-gcc patterns.c -o patterns && ./patterns
-gcc grades.c -o grades && ./grades
-gcc fibonacci.c -o fib && ./fib
+make
+./patterns
+./grades
+./fib
 ```
 
-MIT · practice project
+## License
+
+MIT
